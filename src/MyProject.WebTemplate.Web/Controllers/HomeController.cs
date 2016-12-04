@@ -11,6 +11,7 @@ namespace MyProject.WebTemplate.Web.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            //Simple comment
             return View();
         }
     }
