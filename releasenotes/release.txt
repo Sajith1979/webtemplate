@@ -1,0 +1,2 @@
+# Update this file for every release with release information 
+# The application will be deployed to Azure once this release notes is updated
